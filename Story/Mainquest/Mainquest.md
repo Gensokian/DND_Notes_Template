@@ -11,6 +11,7 @@ Da ihr schon einiges getrunken habt, wirbelt die Musik nur so um euch herum und 
    * Ein Hochbekannter Zauberer könnte diesen Zauber aufheben.
 
 Liste der Zauberer:
+
 |      Name       |   Reputation    | Outcome                                                                                                                | Ort | Outcome |
 |:---------------:|:---------------:|:-----------------------------------------------------------------------------------------------------------------------|:----|:--------|
 |  Merlin Monroe  |                 | Teilweise geheilt, benötigt aber weitere Behandlung                                                                    |     |         |
