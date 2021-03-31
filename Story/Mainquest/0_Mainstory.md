@@ -5,5 +5,5 @@ Da ihr schon einiges getrunken habt, wirbelt die Musik nur so um euch herum und 
 * Pflanzen spriessen aus den Charaktären's köpfen.
 * ist ein Helm angezogen so spriessen diese unter dem helm aber fühlen sich an, als würde ein Körperteil gequetscht werden.
 * Die Blumen wurden durch einen unbekannten Fluch erschienen.
-* **Magisch; School of transmutation**
+* *Magisch; School of transmutation*
 * Ein Hochbekannter Zauberer könnte diesen Zauber aufheben.
