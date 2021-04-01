@@ -1,3 +1,3 @@
-# DND_Notes_Template
+# Deaflora
 
-Basically a small notebook Template anyone can fork to make their own Notes for their own DND Campaigns.
+Deaflora ist ein DND, in welchem die Spieler von einem Magischen Zauber belegt wurden, welche sie in nicht zu absehnlicher Zeit zu Pflanzen werden lassen könnte. Die Pflanzen wachsen von Tag zu Tag dichter.
