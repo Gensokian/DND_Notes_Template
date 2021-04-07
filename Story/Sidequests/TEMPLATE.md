@@ -1,11 +1,5 @@
-# Quests of [TITLE]
+# Sidequest [NBR] [NAME]
 
-| ID  | Questname | Type | Condition | Time estimate |
-|:---:|:----------|:-----|:----------|:-------------:|
-| 000 |           |      |           |               |
-| 001 |           |      |           |               |
-| 002 |           |      |           |               |
-| 003 |           |      |           |               |
-| 004 |           |      |           |               |
-| 005 |           |      |           |               |
-| 006 |           |      |           |               |
+- [ ] Fetchquest 1
+  - [ ] Bring Stuff
+  - [ ] Bring more stuff
